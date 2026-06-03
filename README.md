@@ -1,8 +1,6 @@
 # Log-linear_analysis
 Log-linear analysis on Seaborn "Titanic" dataset
 
-# Installation
-
 ## Requirements
 - Python 3.13
 - pip
